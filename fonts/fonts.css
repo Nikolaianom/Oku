@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'in-bold';
+    src: url('Inter-Bold.ttf');
+}
+@font-face {
+    font-family: 'in-reg';
+    src: url('Inter-Regular.ttf');
+   }
+   @font-face {
+    font-family: 'rob-reg';
+    src: url('Roboto-Regular.ttf');
+   
+   }
